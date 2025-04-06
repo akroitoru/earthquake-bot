@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1735053238000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&latitude=43.25667&longitude=76.92861&maxradiuskm=400&orderby=time",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.14.1",
+        "count": 5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "103 km ENE of Kashgar, China",
+                "time": 1734438744102,
+                "updated": 1734446580040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000nziv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000nziv&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "7000nziv",
+                "ids": ",us7000nziv,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 29,
+                "dmin": 1.737,
+                "rms": 0.78,
+                "gap": 241,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 103 km ENE of Kashgar, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.1364,
+                    39.7526,
+                    10
+                ]
+            },
+            "id": "us7000nziv"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "75 km W of Tumxuk, China",
+                "time": 1733932431370,
+                "updated": 1733956791040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000nxwi",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000nxwi&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "7000nxwi",
+                "ids": ",us7000nxwi,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 30,
+                "dmin": 1.805,
+                "rms": 0.82,
+                "gap": 203,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 75 km W of Tumxuk, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1867,
+                    39.9461,
+                    10
+                ]
+            },
+            "id": "us7000nxwi"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "126 km W of Tumxuk, China",
+                "time": 1732959161098,
+                "updated": 1734599326040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000nv3u",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000nv3u&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "7000nv3u",
+                "ids": ",us7000nv3u,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 30,
+                "dmin": 1.641,
+                "rms": 1.15,
+                "gap": 134,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 126 km W of Tumxuk, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.6063,
+                    40.093,
+                    10
+                ]
+            },
+            "id": "us7000nv3u"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "123 km WNW of Tumxuk, China",
+                "time": 1732739500824,
+                "updated": 1734885140040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000nuks",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000nuks&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "7000nuks",
+                "ids": ",us7000nuks,",
+                "sources": ",us,",
+                "types": ",dyfi,moment-tensor,origin,phase-data,",
+                "nst": 92,
+                "dmin": 1.314,
+                "rms": 0.74,
+                "gap": 115,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 4.5 - 123 km WNW of Tumxuk, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8019,
+                    40.4137,
+                    10
+                ]
+            },
+            "id": "us7000nuks"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "20 km NW of Zharkent, Kazakhstan",
+                "time": 1732560135117,
+                "updated": 1734186644172,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000nu3e",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000nu3e&format=geojson",
+                "felt": 6,
+                "cdi": 3.5,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 314,
+                "net": "us",
+                "code": "7000nu3e",
+                "ids": ",us7000nu3e,",
+                "sources": ",us,",
+                "types": ",dyfi,moment-tensor,origin,phase-data,",
+                "nst": 100,
+                "dmin": 0.994,
+                "rms": 0.6,
+                "gap": 41,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 4.5 - 20 km NW of Zharkent, Kazakhstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8235,
+                    44.2913,
+                    26.665
+                ]
+            },
+            "id": "us7000nu3e"
+        }
+    ],
+    "bbox": [
+        77.1364,
+        39.7526,
+        10,
+        79.8235,
+        44.2913,
+        26.665
+    ]
+}
